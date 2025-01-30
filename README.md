@@ -28,4 +28,8 @@ Hi, I'm Victor! I'm currently a linguistics undergrad student at Stony Brook Uni
 - 🎓 Education: Passionate about linguistics and historical phonetics.
 - 💻 Programming: Aiming to create tools for linguists.
 
+- ## Certifications
+- [Code Academy Profile](https://www.codecademy.com/profiles/VicSev90) - Course Learn C: Introduction
+- Mimo - Python; HTML
+
 Feel free to reach out and connect!
