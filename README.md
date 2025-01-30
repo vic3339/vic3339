@@ -11,6 +11,12 @@ Hi, I'm Victor! I'm currently a linguistics undergrad student at Stony Brook Uni
 - **Military Service:** At 19, I joined the US Air Force 🇺🇸 and served for six years.
 - **Return to Education:** In 2023, I returned to school to finish my degree and pursue a PhD in Linguistics with a focus on phonetics-phonology and historical linguistics.
 
+**Programming Languages:**
+- C++
+- Python
+- JavaScript
+- C
+
 ## Future Goals
 
 - Obtain a PhD in Linguistics.
