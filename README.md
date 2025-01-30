@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm Victor! I'm currently a linguistics undergrad student at Stony Brook University and a US Air Force veteran (2013-2019). My fascination with languages began in the Dominican Republic 🇩🇴. After immigrating to the US 🇺🇸 at 8, I learned English and became fluent in Spanish 🇪🇸🇩🇴, French 🇫🇷, Italian 🇮🇹, and Portuguese 🇵🇹🇧🇷. I also have intermediate knowledge in German 🇩🇪, Classical Latin, and conversational skills in Mandarin and Cantonese 🇨🇳, and Modern Koine Greek 🇬🇷. My studies include Russian 🇷🇺, Icelandic 🇮🇸, Dutch 🇳🇱, Norwegian 🇳🇴, Old Norse, Old English, and Proto languages like Proto-Indo-European.
+Hi, I'm Victor! I'm currently a linguistics undergrad student at Stony Brook University and a US Air Force veteran (2013-2019). My fascination with languages began in the Dominican Republic 🇩🇴. After immigrating to the US 🇺🇸 at 8, I learned English and became fluent in Spanish 🇩🇴🇪🇸, French 🇫🇷, Italian 🇮🇹, and Portuguese 🇵🇹🇧🇷. I also have intermediate knowledge in German 🇩🇪, Classical Latin🇻🇦, and conversational skills in Mandarin and Cantonese 🇨🇳, and Modern Koine Greek 🇬🇷. My studies include Russian 🇷🇺, Icelandic 🇮🇸, Dutch 🇳🇱, Norwegian 🇳🇴, Old Norse, Old English, and Proto languages like Proto-Indo-European📜.
 
 ## My Journey
 
